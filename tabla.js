@@ -1,14 +1,14 @@
 const semanas = [
     {
         numero:"1",
-        subtitulo: "Clasificación de problemas",
-        tema:"algorítmicos Presentación del curso. Clasificación de problemas algorítmicos, problemas P y NP. Problemas de decisión, localización y optimización. Descripción de algunos problemas NP-difícil.",
-        archivos: {tipo: "power_point",nombre:"archivos 1",link:"https://docs.google.com/presentation/d/1EzWnm403W2xPvLDssZvvHS-WTzT7o7zkh9qLKgkpKRs/edit?usp=sharing"}
+        subtitulo: "Presentación del curso",
+        tema:"El aporte: concepto,  características y proceso. Conceptualización del aporte. Estado del arte del aporte.",
+        //archivos: {tipo: "power_point",nombre:"archivos 1",link:"https://docs.google.com/presentation/d/1EzWnm403W2xPvLDssZvvHS-WTzT7o7zkh9qLKgkpKRs/edit?usp=sharing"}
     },
     {
         numero:"2",
-        subtitulo: "Fundamentos de la inteligencia artificial",
-        tema:"Definición de la Inteligencia Artificial. Máquina inteligente. Diferencia entre sistemas operacionales y sistemas inteligentes. Aplicaciones en la industria y servicios (robótica, planificación, gestión de desperdicios). Test de Turing.",
+        subtitulo: "",
+        tema:"",
         /*archivos: {tipo: "power_point",nombre:"archivos 2",link:"https://docs.google.com/presentation/d/1ediU4PRx2BVvWLq7adaVr6uSNTjrsjbO7QcA7Z50aH8/edit?usp=sharing"},
         trabajo:[
             {
